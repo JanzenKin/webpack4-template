@@ -131,7 +131,8 @@
     "webpack-bundle-analyzer": "^2.13.1",
     "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.11.3",
-    "webpack-merge": "^4.2.2"
+    "webpack-merge": "^4.2.2",
+    "px2rem-loader": "^0.1.9"
   },
   "engines": {
     "node": ">= 6.0.0",

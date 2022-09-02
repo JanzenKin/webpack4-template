@@ -26,7 +26,7 @@ This is a project template for [vue-cli](https://github.com/vuejs/vue-cli). **It
 
 ``` bash
 $ npm install -g vue-cli
-$ vue init webpack my-project
+$ vue init JanzenKin/webpack4-template my-project // 引入模板
 $ cd my-project
 $ npm install
 $ npm run dev
