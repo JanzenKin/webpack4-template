@@ -35,7 +35,7 @@ threadLoader.warmup(cssWorkerPool, ['css-loader', 'postcss-loader', 'sass-loader
 module.exports = {
 //   context: path.resolve(__dirname, '../'),
   mode:process.env.NODE_ENV === 'production'?'production':'development',
-  entry:  path.resolve(__dirname, '../src/index.js'),
+  entry:  path.resolve(__dirname, '../src/main.js'),
   output: {
     path: config.build.assetsRoot,
     filename: '[name].js',
